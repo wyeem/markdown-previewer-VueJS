@@ -1,6 +1,6 @@
 # md-previewer
 
-> My fabulous Nuxt.js project
+> Markdown Previewer built using Vue, Nuxt and showdown
 
 ## Build Setup
 
