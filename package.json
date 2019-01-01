@@ -1,7 +1,7 @@
 {
   "name": "md-previewer",
   "version": "1.0.0",
-  "description": "My fabulous Nuxt.js project",
+  "description": "Markdown Previewer built using Vue, Nuxt and showdown",
   "author": "Mariam Yusuf",
   "private": true,
   "scripts": {
