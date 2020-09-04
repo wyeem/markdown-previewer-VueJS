@@ -14,7 +14,7 @@
     "@nuxtjs/bulma": "^1.2.0",
     "cross-env": "^5.2.0",
     "nuxt": "^2.0.0",
-    "showdown": "^1.9.0"
+    "showdown": "^1.9.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
